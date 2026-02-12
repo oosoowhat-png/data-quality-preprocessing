@@ -1,18 +1,19 @@
-# Data Quality Analysis and Pre-processing Framework
+ Data Quality Analysis and Pre-processing Framework
 
-## Objective
+Objective:
 To clean and preprocess business dataset using Python Pandas.
 
-## Steps Performed
+Steps Performed:
 - Handling missing values
 - Removing duplicates
 - Data normalization
 - Visualization of cleaned data
 
-## Tools Used
+ Tools Used:
 - Python
 - Pandas
 - Matplotlib
 
-## Output
+ Output:
 Cleaned dataset and visual analytics graphs generated successfully.
+
