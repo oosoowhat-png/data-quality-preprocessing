@@ -1,0 +1,8 @@
+Customer,Age,Salary,Region,Purchase,Salary_Normalized
+A,25.0,30000.0,South,Yes,0.0
+B,32.666666666666664,40000.0,North,No,0.2
+C,35.0,35000.0,East,Yes,0.1
+D,40.0,50000.0,West,Yes,0.4
+E,29.0,30000.0,South,No,0.0
+F,42.0,80000.0,North,Yes,1.0
+G,25.0,30000.0,South,Yes,0.0

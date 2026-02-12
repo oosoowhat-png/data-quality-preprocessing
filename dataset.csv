@@ -1,0 +1,8 @@
+Customer,Age,Salary,Region,Purchase
+A,25,30000,South,Yes
+B,,40000,North,No
+C,35,,East,Yes
+D,40,50000,West,Yes
+E,29,30000,South,
+F,42,80000,North,Yes
+G,25,30000,South,Yes
